@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to CowperCourtney's GitHub Page
 
-You can use the [editor on GitHub](https://github.com/CowperCourtney/CowperCourtney/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Courtney and I am a student at the University of South Florida. I started as a Marine Biology major, but I am currently pursuing a degree in Information Science with a focus in Data Science and Analytics. I changed my major because I realized after time out at sea that if I wanted to make an impact on species management I was going to have to use data to tell a story, simply collecting that data doing field work would not be enough. My ultimate goal is to do fisheries science for the United States government so that I may offer insight on important fish stocks as well as suggest legislation updates in order to properly manage the 500 different fish stocks NOAA monitors. This direction for my life accomplishes my two main goals: to do something that will have a positive impact on human society, and keeps me involved with the ocean which I have had a personal interest in since I was a child.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -20,6 +20,8 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
+
+You can use the [editor on GitHub](https://github.com/CowperCourtney/CowperCourtney/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 **Bold** and _Italic_ and `Code` text
 
